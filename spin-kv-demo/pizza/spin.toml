@@ -1,0 +1,20 @@
+spin_manifest_version = 2
+
+[application]
+name = "pizza"
+version = "0.1.0"
+authors = ["Saiyam Pathak <saiyam911@gmail.com>"]
+description = ""
+
+[[trigger.http]]
+route = "/..."
+component = "pizza"
+
+[component.pizza]
+source = "target/wasm32-wasi/release/pizza.wasm"
+allowed_outbound_hosts = []
+key_value_stores = ["default"]
+
+[component.pizza.build]
+command = "cargo build --target wasm32-wasi --release"
+watch = ["src/**/*.rs", "Cargo.toml"]
