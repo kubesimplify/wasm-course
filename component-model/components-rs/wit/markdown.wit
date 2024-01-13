@@ -1,7 +1,0 @@
-package component:demo
-
-world renderer {
-  export markdown: interface {
-    render: func(input: string) -> string
-  }
-}

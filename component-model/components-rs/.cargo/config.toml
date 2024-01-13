@@ -1,9 +1,0 @@
-# Doesn't seem to apply?
-cargo-features = ["per-package-target"]
-
-[package]
-name = "guest"
-default-target = "wasm32-unknown-unknown"
-
-[env]
-CARGO_WORKSPACE_DIR = { value = "", relative = true }
