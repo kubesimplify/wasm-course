@@ -1,7 +1,7 @@
 title: The WebAssembly Course
 description: The WebAssembly course website
-sitename:
-baseurl: 'wasm-course'
+sitename: The WebAssembly Course
+baseurl: ''
 sass:
   sass_dir: /assets/_sass
   style: :compressed
