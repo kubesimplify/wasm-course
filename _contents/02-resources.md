@@ -6,6 +6,8 @@ subheading: Resources&#58;
 image: ""
 ---
 
+The video can be found at: []().
+
 We have most of the code resources on the GitHub repository: [github.com/kubesimplify/wasm-course](https://github.com/kubesimplify/wasm-course).
 
 Here, we list text resources we use.
