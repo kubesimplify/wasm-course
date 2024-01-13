@@ -1,0 +1,18 @@
+title: The WebAssembly Course
+description: The WebAssembly course website
+sitename:
+baseurl: 'wasm-course'
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - contents
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+markdown: kramdown
+
+theme: jekyll-theme-cayman
