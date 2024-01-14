@@ -14,3 +14,5 @@ The videos are put together by:
 
 - [Saiyam Pathak](https://twitter.com/SaiyamPathak)
 - [Rishit Dagli](https://twitter.com/rishit_dagli)
+
+Thanks to [Kunal Verma](https://twitter.com/kverma_) and [Saloni Narang](https://twitter.com/I_saloni92) for editing the videos.
