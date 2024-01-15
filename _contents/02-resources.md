@@ -6,7 +6,7 @@ subheading: Resources
 image: ""
 ---
 
-The video can be found at: [![The complete WebAssembly Course: Beginner to Advanced]([https://img.youtube.com/vi/PN3VqbZqmD8/0.jpg)](https://youtu.be/eYekV2Do0YU)
+The video can be found at: [![The complete WebAssembly Course: Beginner to Advanced](https://img.youtube.com/vi/PN3VqbZqmD8/0.jpg)](https://youtu.be/eYekV2Do0YU)
 
 We have most of the code resources on the GitHub repository: [github.com/kubesimplify/wasm-course](https://github.com/kubesimplify/wasm-course).
 
